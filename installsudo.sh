@@ -1,7 +1,7 @@
 #!/system/bin/sh
 
 clear
-echo "Android-Sudo v1.1 by MasterDevX. Made in Ukraine."
+echo "Android-Sudo v1.1 by Sick6tySix™. Made in Malaysia."
 echo "-------------------------------------------------"
 if [ "`id | grep =0`" ]; then
     echo "[sudo] Installing sudo..."
